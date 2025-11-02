@@ -1,2 +1,0 @@
-# Flying-bird
-Mygame
